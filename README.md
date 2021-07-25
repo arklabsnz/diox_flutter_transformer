@@ -13,7 +13,7 @@ This package is a fork of [dio_flutter_transformer](https://pub.dev/packages/dio
 
 ```yaml
 dependencies:
-  dio_flutter_transformer: ^4.0.0 # latest version
+  dio_flutter_transformer: ^4.0.1 # latest version
 ```
 
 ## Usage
