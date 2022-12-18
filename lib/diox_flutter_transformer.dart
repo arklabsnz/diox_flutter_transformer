@@ -1,7 +1,7 @@
 library dio_flutter_transformer;
 
 import 'dart:convert';
-import 'package:dio/dio.dart';
+import 'package:diox/diox.dart';
 import 'package:flutter/foundation.dart';
 
 /// Dio has already implemented a [DefaultTransformer], and as the default

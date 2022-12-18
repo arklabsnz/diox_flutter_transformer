@@ -1,16 +1,16 @@
-name: dio_flutter_transformer2
-description:  A dio transformer espically for flutter, by which the json decoding will be in background with [compute] function in flutter sdk.
+name: diox_flutter_transformer
+description:  A DioX transformer for flutter, by which the json decoding will be in background with [compute] function in flutter sdk.
 
-version: 4.0.1
-homepage: https://github.com/arklabsnz/dio_flutter_transformer
+version: 1.0.0
+homepage: https://github.com/arklabsnz/diox_flutter_transformer
 
 environment:
-  sdk: ">2.12.0 <3.0.0"
+  sdk: ">2.18.0 <3.0.0"
 
 dependencies:
   flutter:
     sdk: flutter
-  dio: ^4.0.0
+  diox: ^5.0.0-dev.1
 
 dev_dependencies:
   flutter_test:
