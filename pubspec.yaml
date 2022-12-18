@@ -1,7 +1,7 @@
 name: diox_flutter_transformer
 description:  A DioX transformer for flutter, by which the json decoding will be in background with [compute] function in flutter sdk.
 
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/arklabsnz/diox_flutter_transformer
 
 environment:

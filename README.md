@@ -1,4 +1,4 @@
-# dio_flutter_transformer2 [![Pub](https://img.shields.io/pub/v/diox_flutter_transformer.svg?style=flat-square)](https://pub.dartlang.org/packages/diox_flutter_transformer)
+# diox_flutter_transformer [![Pub](https://img.shields.io/pub/v/diox_flutter_transformer.svg?style=flat-square)](https://pub.dartlang.org/packages/diox_flutter_transformer)
 
 A [diox](https://github.com/cfug/diox) transformer especially for flutter, by which the json decoding will be in background with [compute] function.
 
@@ -10,7 +10,7 @@ This package is a fork of [dio_flutter_transformer](https://pub.dev/packages/dio
 
 ```yaml
 dependencies:
-  diox_flutter_transformer: ^1.0.0 # latest version
+  diox_flutter_transformer: ^1.0.1 # latest version
 ```
 
 ## Usage
